@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/i4j2rvd9cgib5tu4?svg=true)](https://ci.appveyor.com/project/molottva/postmanecho)
+[![Build status](https://ci.appveyor.com/api/projects/status/xa3422962p35x7xx/branch/main?svg=true)](https://ci.appveyor.com/project/malushkru0878/postmanecho/branch/main)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
